@@ -1,3 +1,3 @@
-# angular-adraue
+# Angular start-up project
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-adraue)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-kj)
